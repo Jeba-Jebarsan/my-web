@@ -1188,7 +1188,7 @@ section
     padding: 10px 60px;
     background: #ffffff;
     border: 5;
-    
+    content: normal;
     outline: none;
     cursor: pointer;
     font-size: 22px;
